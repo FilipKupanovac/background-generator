@@ -11,5 +11,8 @@
     "url": "git+https://github.com/FilipKupanovac/background-generator.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
 }
